@@ -1,3 +1,96 @@
 
 
+.nav-link {
+ font-size: 13px;
+}
+.hero-img {
+ background-color: rgb(233, 233, 233);
+ height: 35rem;
+ padding: 15rem 0 0 5rem;
+}
 
+.div-a {
+ max-width: 35rem;
+}
+
+.div-b a {
+ text-decoration: none;
+ display: flex;
+}
+
+.div-b-1 {
+ border: 1px solid black;
+ padding: 9px 16px;
+ background-color: black;
+ color: white;
+ width: fit-content;
+}
+
+.div-b-1:hover {
+ text-decoration: underline 2px;
+ opacity: .7;
+ color: white;
+ text-underline-position: under;
+}
+
+.arrow {
+  font-weight: bold;
+ }
+
+ .div-b-2 {
+  color: black;
+  font-weight: bold;
+  text-indent: 15px;
+  margin-top: 10px;
+ }
+
+
+ .div-b-2:hover {
+  text-decoration: underline solid black 3px;
+  opacity: .7;
+  color: black;
+  text-underline-position: under;
+ }
+
+ /********************************
+ main
+ ********************************/
+
+.div-c {
+ display: block;
+ width: 100%;
+ margin: 3rem 0;
+ text-align: center;
+}
+
+.main-ul {
+ list-style-type: none;
+ overflow: hidden;
+ 
+ display: inline-block;
+}
+
+.main-ul li {
+ float: left;
+}
+
+.main-ul li a {
+ display: block;
+ padding: 10px;
+ text-align: center;
+ text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+  /********************************
+   main
+   ********************************/
